@@ -1,0 +1,12 @@
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\bin\Debug\netcoreapp2.0\PsHelloAzure.deps.json
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\bin\Debug\netcoreapp2.0\PsHelloAzure.runtimeconfig.json
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\bin\Debug\netcoreapp2.0\PsHelloAzure.runtimeconfig.dev.json
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\bin\Debug\netcoreapp2.0\PsHelloAzure.dll
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\bin\Debug\netcoreapp2.0\PsHelloAzure.pdb
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\obj\Debug\netcoreapp2.0\PsHelloAzure.csproj.CoreCompileInputs.cache
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\obj\Debug\netcoreapp2.0\PsHelloAzure.AssemblyInfoInputs.cache
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\obj\Debug\netcoreapp2.0\PsHelloAzure.AssemblyInfo.cs
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\obj\Debug\netcoreapp2.0\PsHelloAzure.dll
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\obj\Debug\netcoreapp2.0\PsHelloAzure.pdb
+C:\Users\Mai Khanh\Desktop\Doc\ASPDotNet\Azure\New folder\07\demos\demos\demos\before\PsHelloAzure\obj\Debug\netcoreapp2.0\PsHelloAzure.csprojAssemblyReference.cache
